@@ -5,7 +5,8 @@
 		{
 			"src": "favicon.ico",
 			"sizes": "any",
-			"type": "image/x-icon"
+			"type": "image/x-icon",
+			"purpose": "any"
 		}
 	],
 	"start_url": "./index.html",
